@@ -1,3 +1,4 @@
-ciao testo qui
 
 secondo testo qui
+
+faccio delle modifiche e cancello la prima riga
